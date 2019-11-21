@@ -34,6 +34,8 @@ x = 5
 y = "John"
 print(str(x) + y) #this is right way
 
+print('hey')
+
 
 
 
